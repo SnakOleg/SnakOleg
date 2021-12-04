@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💌 [ai/size-limit](https://matrixbot.ga/ai/size-limit#readme)
+  🖥 My web site https://matrixbot.ga
 </p>
 
 <p align="left">
