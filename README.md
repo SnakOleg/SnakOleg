@@ -8,15 +8,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  ⚙ Linguagens: <strong>JavaScript, Html, Python.</strong>
+  ⚙ Languages: <strong>JavaScript, Html, Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VirtualSquad Community</strong>
+  💼 Projects: <strong>VirtualSquad Community</strong>
 </p>
 
 <p align="left">
-  🖥 My website https://matrixbot.ga
+  🖥 Website https://matrixbot.ga
 </p>
 
 <p align="left">
