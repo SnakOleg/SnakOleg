@@ -26,10 +26,10 @@
 
 <p align="left">
   <a href="#" alt="Discord server">
-  <img src="https://img.shields.io/badge/-Discord Server-FF0000?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/cEGFgapWdm" /></a>
+  <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/cEGFgapWdm" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a href="#" alt="YouTube">
+  <img src="https://img.shields.io/badge/-YouTube-f71a0a?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
