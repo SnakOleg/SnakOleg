@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/cEGFgapWdm" /></a>
 
   <a href="#" alt="YouTube">
-  <img src="https://img.shields.io/badge/-YouTube-f71a0a?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
+  <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
