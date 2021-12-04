@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="#" alt="Discord server">
-  <img src="https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FF0000&logo=discord&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Discord Server-FF0000?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/cEGFgapWdm" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
