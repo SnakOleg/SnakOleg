@@ -25,14 +25,14 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Discord server">
-  <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/cEGFgapWdm" /></a>
+  <a href="https://discord.gg/cEGFgapWdm" alt="Discord server">
+  <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=LINK-DO-SEE-DISCORD" /></a>
 
-  <a href="#" alt="YouTube">
+  <a href="https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <a href="#" alt="Discord bot">
+  <img src="https://cdn.discordapp.com/attachments/852094055148027925/916184140318138408/-removebg-preview.png/-Bot-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
