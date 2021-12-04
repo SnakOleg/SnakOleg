@@ -30,15 +30,6 @@
 
   <a href="https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
-
-  <a href="#" alt="Discord bot">
-  <img src="https://cdn.discordapp.com/attachments/852094055148027925/916184140318138408/-removebg-preview.png/-Bot-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
 <!---
