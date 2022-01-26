@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnakOleg | Snak#0017
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JavaScript and maybe Html
+- 🌱 I’m currently learning JavaScript and maybe Html
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me no way
 
