@@ -20,6 +20,10 @@
 </p>
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SnakOleg&color=dc143c"/>
+</div>
+
+<div align="center">
     <a href="https://discord.com/users/468033389786824734" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/468033389786824734"></a>
 </div>
 
