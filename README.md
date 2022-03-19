@@ -19,6 +19,10 @@
   🖥 Website: https://matrixbot.ga
 </p>
 
+<div align="center">
+    <a href="https://discord.com/users/468033389786824734" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/468033389786824734"></a>
+</div>
+
 <p align="left">
   <a href="https://discord.gg/cEGFgapWdm" alt="Discord server">
   <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=LINK-DO-SEE-DISCORD" /></a>
