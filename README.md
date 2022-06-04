@@ -1,24 +1,22 @@
 - 👋 Hi, I’m @SnakOleg | Snak#0017
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript and maybe Html
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m would like to collaborate with someone
 - 📫 How to reach me? My Discord Snak#0017
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   ⚙ Languages: <strong>Djs, Html, CSS, Dpy.</strong>
 </p>
-
 <p align="left">
   💼 Projects: <strong>VirtualSquad Community</strong>
 </p>
-
 <p align="left">
-  🖥 Website: https://matrixbot.ga
+  🖥 Bot Website: https://matrixbot.ga
 </p>
-
+<p align="left">
+  🖥 My Website: Soon...
+</p>
 
 <p align="left">
   <a href="https://discord.gg/cEGFgapWdm" alt="Discord server">
