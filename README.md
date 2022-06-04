@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
 </p>  
 
-[![](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 <!---
 SnakOleg/SnakOleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
