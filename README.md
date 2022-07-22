@@ -6,7 +6,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  ⚙ Languages: <strong>Discord.js, Html, CSS.</strong>
+  ⚙ Languages: <strong>JavaScript, HTML, CSS.</strong>
+   └ Libraries: <strong>Discord.js</strong>
 </p>
 <p align="left">
   💼 Projects: <strong>VirtualSquad Community</strong>
