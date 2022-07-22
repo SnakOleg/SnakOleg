@@ -10,7 +10,7 @@
   🔋 Libraries: <strong>Discord.js</strong>
 </p>
 <p align="left">
-  💼 Projects: <strong>VirtualSquad Community</strong>
+  💼 Projects: <strong>VirtualSquad Community | MatrixBot Community</strong>
 </p>
 <p align="left">
   🖥 Bot Website: https://matrixbot.ga
