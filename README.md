@@ -7,7 +7,7 @@
 
 <p align="left">
   ⚙ Languages: <strong>JavaScript, HTML, CSS.</strong></p>
-      └ Libraries: <strong>Discord.js</strong>
+  🔋 Libraries: <strong>Discord.js</strong>
 </p>
 <p align="left">
   💼 Projects: <strong>VirtualSquad Community</strong>
