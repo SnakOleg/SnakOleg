@@ -15,9 +15,6 @@
 <p align="left">
   🖥 Bot Website: https://matrixbot.ga
 </p>
-<p align="left">
-  🖥 My Website: Soon...
-</p>
 
 <p align="left">
   <a href="https://discord.gg/cEGFgapWdm" alt="Discord server">
