@@ -14,6 +14,7 @@
 </p>
 <p align="left">
   🖥 Bot Website: https://matrixbot.ga
+  🖥 My Website: https://snak1.ml
 </p>
 
 <p align="left">
@@ -24,8 +25,12 @@
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
 </p>  
 
-![](https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=great-gatsby)
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 <!---
 SnakOleg/SnakOleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
