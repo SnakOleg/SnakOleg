@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript and I would also like to learn vue.js/nuxt.js and maybe java
 - 💞️ I’m would like to collaborate with someone
-- 📫 How to reach me? My Discord Snak#0017
+- 📫 How to reach me? My Discord Snak1
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
