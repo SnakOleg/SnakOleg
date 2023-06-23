@@ -13,7 +13,7 @@
   💼 Projects: <strong>VirtualSquad Community | MatrixBot Community</strong>
 </p>
 <p align="left">
-  🖥 Bot Website: https://matrix-bot.ga</p>
+  🖥 Bot Website: https://matrix-bot.ru</p>
   🖥 My Website: https://snak1.ml
 </p>
 
