@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnakOleg | Snak#0017
+- 👋 Hi, I’m @SnakOleg | Snak1
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript and I would also like to learn vue.js/nuxt.js and maybe java
 - 💞️ I’m would like to collaborate with someone
