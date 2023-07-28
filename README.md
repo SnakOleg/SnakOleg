@@ -14,7 +14,7 @@
 </p>
 <p align="left">
   🖥 Bot Website: https://matrix-bot.ru</p>
-  🖥 My Website: https://snak1.ml
+  🖥 My Website: https://snak-web.pages.dev
 </p>
 
 <p align="left">
