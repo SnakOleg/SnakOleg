@@ -7,7 +7,7 @@
 
 <p align="left">
   ⚙ Languages: <strong>JavaScript</strong></p>
-  🔋 Libraries: <strong>Discord.js</strong>
+  🔋 Libraries: <strong>Discord.js</strong></p>
   🔋 Frameworks: <strong>Vue.js, Nuxt.js</strong>
 </p>
 <p align="left">
