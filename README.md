@@ -6,8 +6,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  ⚙ Languages: <strong>JavaScript, Vue.js, Nuxt.js</strong></p>
+  ⚙ Languages: <strong>JavaScript</strong></p>
   🔋 Libraries: <strong>Discord.js</strong>
+  🔋 Frameworks: <strong>Vue.js, Nuxt.js</strong>
 </p>
 <p align="left">
   💼 Projects: <strong>VirtualSquad Community | MatrixBot Community</strong>
