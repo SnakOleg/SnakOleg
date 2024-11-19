@@ -31,6 +31,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+  <a href="#">![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)
  </a>
 </details>
 <!---
