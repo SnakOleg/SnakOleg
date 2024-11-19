@@ -23,14 +23,14 @@
 
   <a href="https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
-</p>  
+</p>
+<a href="#">![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>My Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-  <a href="#">![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)
  </a>
 </details>
 <!---
