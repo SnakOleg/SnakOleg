@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <a href="https://discord.gg/cEGFgapWdm" alt="Discord server">
-  <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=LINK-DO-SEE-DISCORD" /></a>
+  <a href="https://discord.gg/9CfBX2s7th" alt="Discord server">
+  <img src="https://img.shields.io/badge/-Discord Server-4328c9?style=flat-square&labelColor=4328c9&logo=discord&logoColor=white&link=https://discord.gg/9CfBX2s7th" /></a>
 
   <a href="https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-ffffff?style=flat-square&logo=YouTube&logoColor=f71a0a&link=https://www.youtube.com/channel/UCv-5m8YDEUSCwLjM3YK-ACQ" /></a>
