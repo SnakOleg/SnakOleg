@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnakOleg | Snak1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript and I would also like to learn vue.js/nuxt.js and maybe java
+- 🌱 I’m currently learning JavaScript and I would also like to learn vue.js/react and java
 - 💞️ I’m would like to collaborate with someone
 - 📫 How to reach me? My Discord **Snak1** or Telegram **@The_Nikeri**
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
