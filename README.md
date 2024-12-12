@@ -17,9 +17,8 @@
   🖥 My Website: https://snak-web.pages.dev
 </p>
 
-<p align="left">
-  <a href="#">![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)
-</p>
+![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)
+
 
 <details>
   <summary>My Stats ⚡</summary>
