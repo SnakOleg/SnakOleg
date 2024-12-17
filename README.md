@@ -27,6 +27,8 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true)
  </a>
 </details>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vuetify,js,ts,nodejs,express,nuxtjs,react,vue,mongodb,cloudflare,grafana,figma,git,github,notion,webstorm&theme=dark)](https://skillicons.dev)
 <!---
 SnakOleg/SnakOleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
