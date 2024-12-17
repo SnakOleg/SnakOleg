@@ -18,9 +18,6 @@
 <details>
   <summary>My Stats ⚡</summary>
   <a href="#">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl" alt="Duolingo" />
-  </a>
-  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
   </a>
   <a href="#">
