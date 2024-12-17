@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript and I would also like to learn vue.js/react and java
 - 💞️ I’m would like to collaborate with someone
 - 📫 How to reach me? My Discord **Snak1** or Telegram **@The_Nikeri**
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vuetify,js,ts,nodejs,express,nuxtjs,react,vue,mongodb,cloudflare,grafana,figma,git,github,notion,webstorm&theme=dark)](https://skillicons.dev)
 
@@ -14,6 +13,7 @@
   🖥 Bot Website: https://matrix-bot.ru | https://matrixbot-web.pages.dev/</p>
   🖥 My Website: https://snak-web.pages.dev
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <details>
   <summary>My Stats ⚡</summary>
