@@ -17,11 +17,17 @@
 
 <details>
   <summary>My Stats ⚡</summary>
-  <a href="#">![Duolingo](https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl)</a>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true)
- </a>
+  <a href="#">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=TheNikeri&theme=nightowl" alt="Duolingo" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=SnakOleg&theme=great-gatsby&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" />
+  </a>
 </details>
+
 <!---
 SnakOleg/SnakOleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
