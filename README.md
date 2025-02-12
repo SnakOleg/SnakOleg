@@ -13,11 +13,15 @@
       👀 Exploring cutting-edge technologies &nbsp;&bull;&nbsp; 🌱 Mastering TypeScript with plans to dive into React &nbsp;&bull;&nbsp; 💡 Always open to collaborating on projects and innovative ideas.
     </p>
     <!-- Socials Buttons  -->
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/Discord-Snak1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Telegram-@The__Nikeri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="margin: 0 5px;">
-    </div>
+  <a href="https://discord.com/users/468033389786824734" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Snak1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://t.me/The_Nikeri" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@The__Nikeri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://ko-fi.com/snakoleg" target="_blank">
+    <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
   </div>
 </div>
 
