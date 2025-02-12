@@ -26,11 +26,7 @@
     <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </div>
-
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Profile Illustration" style="border-radius: 10px; max-width: 100%; width: 400px;">
-  </div>
+</div>
 </div>
 <!-- Skills Section -->
 <h2 align="center">🚀 Skills & Technologies</h2>
