@@ -88,10 +88,10 @@
 <!-- Latest Projects Section -->
 <h2 align="center" style="margin-top: 25px; padding-bottom: 15px">🔥 Latest Projects</h2>
 <div align="center">
-  <a style="text-decoration: none;" href="https://github.com/foxocorp/foxogram-frontend">
+  <a href="https://github.com/foxocorp/foxogram-frontend">
     <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=foxogram-frontend&theme=dracula&border_color=595959" alt="Foxogram Frontend">
   </a>
-  <a style="text-decoration: none;" href="https://github.com/SnakOleg/MatrixBot">
+  <a href="https://github.com/SnakOleg/MatrixBot">
     <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=Foxomoji&theme=dracula&border_color=595959" alt="MatrixBot Community">
   </a>
 </div>
