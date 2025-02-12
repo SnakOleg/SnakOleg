@@ -166,21 +166,6 @@
 
 ## 🌐 Projects & Organizations
 
-### FoxoCorp Organization  
-🚀 An open-source real-time messaging app for all your floof friends
-
-<p align="center">
-  <img src="./assets/foxogram.png" alt="Foxogram Logo" width="100" style="border-radius: 12px; border: 1px solid #4C566A;">
-</p>
-
-<p align="center">
-  🔗 [GitHub Organization](https://github.com/foxocorp) | [Frontend Repo](https://github.com/foxocorp/foxogram-frontend) | [Live Demo](https://app.foxogram.su)
-</p>
-
-<div align="center">
-
-## 🌐 Projects & Organizations
-
 **FoxoCorp Organization**  
 🚀 An open-source real-time messaging app for all your floof friends
 
