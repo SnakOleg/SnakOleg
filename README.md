@@ -167,28 +167,47 @@
 ## 🌐 Projects & Organizations
 
 ### FoxoCorp Organization  
-🚀 An open-source real-time messaging app for all your floof friends  
+🚀 An open-source real-time messaging app for all your floof friends
 
-![Foxogram Logo](./assets/foxogram.png)  
+<p align="center">
+  <img src="./assets/foxogram.png" alt="Foxogram Logo" width="100" style="border-radius: 12px; border: 1px solid #4C566A;">
+</p>
 
-🔗 [GitHub Organization](https://github.com/foxocorp) | [Frontend Repo](https://github.com/foxocorp/foxogram-frontend) | [Live Demo](https://app.foxogram.su)
+<p align="center">
+  🔗 [GitHub Organization](https://github.com/foxocorp) | [Frontend Repo](https://github.com/foxocorp/foxogram-frontend) | [Live Demo](https://app.foxogram.su)
+</p>
 
 ---
 
 ### 📌 Active Projects
 
 | Project | Description |
-|---------|------------|
-| ![Foxogram](./assets/foxogram.png) **[Foxogram](https://github.com/foxocorp/foxogram-frontend)** | Messaging platform • Preact • WebSocket |
-| 🛠️ **FoxoAI Assistant** | Coming Q? ???? • AI integration |
+|---------|-------------|
+| <p align="center">
+    <img src="./assets/foxogram.png" alt="Foxogram" width="80" style="border-radius: 12px; border: 1px solid #4C566A;"><br>
+    <strong>[Foxogram](https://github.com/foxocorp/foxogram-frontend)</strong>
+  </p> | Messaging platform • Preact • WebSocket |
+| <p align="center">
+    🛠️<br>
+    <strong>FoxoAI Assistant</strong>
+  </p> | Coming Q? ???? • AI integration |
 
 ---
 
 ### 🌍 Active Websites
 
 | Website | Status | Description |
-|---------|--------|------------|
-| 🌐 **[matrixbot-web.pages.dev](https://matrixbot-web.pages.dev)** | ⛔ Outaged | A powerful bot designed to improve your Discord server |
-| ☁️ **[web-dev-d0v.pages.dev](https://web-dev-d0v.pages.dev)** | ⚠️ Possible lags | Staging environment |
-| 🚀 **???** | Planned | Q? ???? |
+|---------|--------|-------------|
+| <p align="center">
+    🌐<br>
+    <strong>[matrixbot-web.pages.dev](https://matrixbot-web.pages.dev)</strong>
+  </p> | ⛔ Outaged | A powerful bot designed to improve your Discord server |
+| <p align="center">
+    ☁️<br>
+    <strong>[web-dev-d0v.pages.dev](https://web-dev-d0v.pages.dev)</strong>
+  </p> | ⚠️ Possible lags | Staging environment |
+| <p align="center">
+    🚀<br>
+    <strong>???</strong>
+  </p> | Planned | Q? ???? |
 
