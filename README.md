@@ -164,120 +164,31 @@
   </a>
 </div>
 
-<!-- Projects & Organizations Section -->
-<h2 align="center" style="padding: 25px 0 15px; border-bottom: 2px solid #2E3440; position: relative;">
-  🌐 Projects & Organizations
-</h2>
+## 🌐 Projects & Organizations
 
-<!-- FoxoCorp Card -->
-<div align="center" style="margin: 30px 0; background: rgba(39, 79, 114, 0.15); padding: 25px; border-radius: 12px; border: 1px solid #4C566A; position: relative;">
-  <div style="display: flex; justify-content: center; margin-bottom: 15px;">
-    <img src="./assets/foxogram.png" style="border-radius: 8px; width: 80px; height: 80px; object-fit: cover; border: 1px solid #4C566A;" alt="Foxogram Logo">
-  </div>
-  <h3 style="margin: 0 0 15px 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    FoxoCorp Organization
-  </h3>
-  <p style="margin: 0; font-size: 1.05em; color: #88C0D0; max-width: 600px; line-height: 1.5;">
-    🚀 An open-source realtime messaging app for all your floof friends
-  </p>
-  <div style="margin-top: 20px; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://github.com/foxocorp" target="_blank">
-      <img src="https://img.shields.io/badge/Organization-4a89ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org">
-    </a>
-    <a href="https://github.com/foxocorp/foxogram-frontend" target="_blank">
-      <img src="https://img.shields.io/badge/Frontend-000000?logo=react&style=for-the-badge" alt="Frontend">
-    </a>
-    <a href="https://app.foxogram.su" target="_blank">
-      <img src="https://img.shields.io/badge/Production_Demo-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-    </a>
-  </div>
-</div>
-<!-- Projects Grid -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; padding: 0 15px; margin-top: 30px;">
-  <!-- Projects Card -->
-  <div style="background: rgba(46, 52, 64, 0.3); padding: 20px; border-radius: 10px; border: 1px solid #4C566A;">
-    <h3 style="margin: 0 0 20px 0; display: flex; align-items: center; gap: 12px;">
-      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="32" alt="Projects">
-      Active Projects
-    </h3>
-    <div style="display: flex; flex-direction: column; gap: 15px;">
-      <!-- Foxogram -->
-      <a href="https://github.com/foxocorp/foxogram-frontend" 
-         style="display: block; padding: 15px; 
-                background: rgba(121, 255, 151, 0.05); 
-                border-radius: 8px; 
-                transition: transform 0.2s ease;
-                text-decoration: none; color: inherit;">
-        <div style="display: flex; align-items: center; gap: 12px;">
-          <img src="./assets/foxogram.png" width="40" style="border-radius: 8px;" alt="Foxogram">
-          <div>
-            <div style="font-weight: 600; color: #79ff97;">Foxogram</div>
-            <div style="font-size: 0.9em; color: #88C0D0;">Messaging platform • Preact • WebSocket</div>
-          </div>
-        </div>
-      </a>
-      <!-- Planned Project -->
-      <div style="padding: 15px; background: rgba(121, 255, 151, 0.03); 
-                border-radius: 8px; opacity: 0.8;
-                border: 1px dashed #4C566A;">
-        <div style="display: flex; align-items: center; gap: 12px;">
-          <img src="https://img.icons8.com/?size=100&id=Imv4VIewVo4o&format=png&color=4a89ff" width="40" alt="Planned">
-          <div>
-            <div style="font-weight: 600; color: #79ff97;">FoxoAI Assistant</div>
-            <div style="font-size: 0.9em; color: #88C0D0;">Coming Q? ???? • AI integration</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Websites Card -->
-  <div style="background: rgba(46, 52, 64, 0.3); padding: 20px; border-radius: 10px; border: 1px solid #4C566A;">
-    <h3 style="margin: 0 0 20px 0; display: flex; align-items: center; gap: 12px;">
-      <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="32" alt="Websites">
-      Active Websites
-    </h3>
-    <div style="display: flex; flex-direction: column; gap: 15px;">
-      <!-- Main Website -->
-      <a href="https://matrixbot-web.pages.dev" 
-         style="display: flex; align-items: center; gap: 15px;
-                padding: 15px; border-radius: 8px;
-                background: rgba(121, 255, 151, 0.07);
-                transition: transform 0.2s ease;
-                text-decoration: none; color: #79ff97;">
-        <img src="./assets/matrixbot.png" style="border-radius: 8px" width="36" alt="Globe">
-        <div>
-          <div style="font-weight: 500;">matrixbot-web.pages.dev <span style="color: #fa4521">(⛔ Outaged)</span></div>
-          <div style="font-size: 0.9em; color: #88C0D0;">A powerful bot designed to improve your Discord server</div>
-        </div>
-      </a>
-      <!-- Dev Instance -->
-      <a href="https://web-dev-d0v.pages.dev" 
-         style="display: flex; align-items: center; gap: 15px;
-                padding: 15px; border-radius: 8px;
-                background: rgba(121, 255, 151, 0.07);
-                transition: transform 0.2s ease;
-                text-decoration: none; color: #79ff97;">
-        <img src="https://img.icons8.com/color/48/000000/cloudflare.png" width="36" alt="Cloudflare">
-        <div>
-          <div style="font-weight: 500;">web-dev-d0v.pages.dev</div>
-          <div style="font-size: 0.9em; color: #88C0D0;">Staging environment <span style="color: #fa9521">(⚠️ Possible lags)</span></div>
-        </div>
-      </a>
-      <!-- Future Project -->
-      <div style="display: flex; align-items: center; gap: 15px;
-                padding: 15px; border-radius: 8px;
-                background: rgba(121, 255, 151, 0.03);
-                border: 1px dashed #4C566A;
-                opacity: 0.8;">
-        <img src="https://img.icons8.com/color/48/000000/coming-soon.png" width="36" alt="Soon">
-        <div>
-          <div style="font-weight: 500; color: #79ff97;">???</div>
-          <div style="font-size: 0.9em; color: #88C0D0;">Planned Q? ????</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+### FoxoCorp Organization  
+🚀 An open-source real-time messaging app for all your floof friends  
 
-<!-- Divider -->
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent 0%, #4C566A 50%, transparent 100%); margin: 40px 0;">
+![Foxogram Logo](./assets/foxogram.png)  
+
+🔗 [GitHub Organization](https://github.com/foxocorp) | [Frontend Repo](https://github.com/foxocorp/foxogram-frontend) | [Live Demo](https://app.foxogram.su)
+
+---
+
+### 📌 Active Projects
+
+| Project | Description |
+|---------|------------|
+| ![Foxogram](./assets/foxogram.png) **[Foxogram](https://github.com/foxocorp/foxogram-frontend)** | Messaging platform • Preact • WebSocket |
+| 🛠️ **FoxoAI Assistant** | Coming Q? ???? • AI integration |
+
+---
+
+### 🌍 Active Websites
+
+| Website | Status | Description |
+|---------|--------|------------|
+| 🌐 **[matrixbot-web.pages.dev](https://matrixbot-web.pages.dev)** | ⛔ Outaged | A powerful bot designed to improve your Discord server |
+| ☁️ **[web-dev-d0v.pages.dev](https://web-dev-d0v.pages.dev)** | ⚠️ Possible lags | Staging environment |
+| 🚀 **???** | Planned | Q? ???? |
+
