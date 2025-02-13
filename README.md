@@ -38,6 +38,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nuxt&theme=dark" alt="Nuxt" style="margin: 0 5px;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vuetify&theme=dark" alt="Vuetify" style="margin: 0 5px;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark" alt="Vite" style="margin: 0 5px;">
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=mobx&theme=dark" alt="MobX" style="margin: 0 5px;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sass&theme=dark" alt="Sass" style="margin: 0 5px;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&theme=dark" alt="Bootstrap" style="margin: 0 5px;">
   </p>
