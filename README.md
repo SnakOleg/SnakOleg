@@ -96,7 +96,7 @@
   <a href="https://github.com/foxocorp/foxogram-frontend">
     <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=foxogram-frontend&theme=dracula&border_color=595959" alt="Foxogram Frontend">
   </a>
-  <a href="https://github.com/SnakOleg/MatrixBot">
+  <a href="https://github.com/SnakOleg/foxomoji">
     <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=Foxomoji&theme=dracula&border_color=595959" alt="MatrixBot Community">
   </a>
 </div>
