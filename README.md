@@ -23,7 +23,9 @@
     <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
   </div>
-  <img style="display: flex; align-items: center;" src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors">
+  <div style="margin-top: 20px; text-align: center;">
+    <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors">
+  </div>
 </div>
 
 <!-- Skills Section -->
