@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
   </div>
-  ![visitors](https://count.getloli.com/get/@SnakOleg?theme=rule34)
+  <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors">
 </div>
 
 <!-- Skills Section -->
