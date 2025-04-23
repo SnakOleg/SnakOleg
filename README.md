@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Jersey+20&size=50&duration=3000&pause=5000&color=F74936&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Welcome+to+my+profile%3CNice+to+meet+you" alt="Typing SVG" />
 </p>
 
-<div style="max-width: 900px; margin: 40px auto; background: rgba(24, 24, 24, 0.30); color: #D8DEE9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: flex; flex-direction: column; align-items: center;">
-  <div style="width: 100%; text-align: left;">
+<div style="max-width: 900px; margin: 40px auto; background: rgba(24, 24, 24, 0.30); color: #D8DEE9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="width: 100%;">
     <h1 style="font-size:2.4em; margin-bottom: 10px;">Hi, I'm <strong>@SnakOleg | Snak1</strong> 👋</h1>
     <p style="font-size:1.2em; margin: 10px 0;">
       Frontend Developer | Crafting sleek, responsive UIs with passion and precision.
