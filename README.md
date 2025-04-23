@@ -24,7 +24,7 @@
     </a>
   </div>
   <div style="margin-top: 20px; text-align: center;">
-    <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors">
+    <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors" style="display: inline-block;">
   </div>
 </div>
 
