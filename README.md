@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
     </a>
   </div>
-  <div style="margin-top: 20px; text-align: center;">
+  <div style=" display: flex; flex-direction: column; align-items: center; text-align: center; margin-top: 25px;">
     <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors" style="display: inline-block;">
   </div>
 </div>
