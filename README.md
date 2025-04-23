@@ -107,7 +107,7 @@
 
 <div align="center">
   
-**FoxoCorp Organization**  
+<h2>FoxoCorp Organization</h2>
 🚀 An open-source real-time messaging app for all your floof friends
 
 🔗 [GitHub Organization](https://github.com/foxocorp) | [Frontend Repo](https://github.com/foxocorp/foxogram-frontend) | [Live Demo](https://app.foxogram.su)
