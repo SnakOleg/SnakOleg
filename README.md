@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Jersey+20&size=50&duration=3000&pause=5000&color=F74936&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Welcome+to+my+profile%3CNice+to+meet+you" alt="Typing SVG" />
 </p>
 
-<div style="max-width: 900px; margin: 40px auto; background: rgba(24, 24, 24, 0.30); color: #D8DEE9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px; text-align: left;">
+<div style="max-width: 900px; margin: 40px auto; background: rgba(24, 24, 24, 0.30); color: #D8DEE9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 100%; text-align: left;">
     <h1 style="font-size:2.4em; margin-bottom: 10px;">Hi, I'm <strong>@SnakOleg | Snak1</strong> 👋</h1>
     <p style="font-size:1.2em; margin: 10px 0;">
       Frontend Developer | Crafting sleek, responsive UIs with passion and precision.
@@ -13,20 +13,21 @@
       👀 Exploring cutting-edge technologies &nbsp;&bull;&nbsp; 🌱 Mastering TypeScript with plans to dive into React &nbsp;&bull;&nbsp; 💡 Always open to collaborating on projects and innovative ideas.
     </p>
     <!-- Socials Buttons  -->
-  <a href="https://discord.com/users/468033389786824734" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Snak1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://t.me/The_Nikeri" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@The__Nikeri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://ko-fi.com/snakoleg" target="_blank">
-    <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
+    <a href="https://discord.com/users/468033389786824734" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-Snak1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://t.me/The_Nikeri" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@The__Nikeri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://ko-fi.com/snakoleg" target="_blank">
+      <img src="https://img.shields.io/badge/Buy me a coffee-FF5CA1?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+    </a>
   </div>
   <div style="margin-top: 20px; text-align: center;">
     <img src="https://count.getloli.com/get/@SnakOleg?theme=rule34" alt="Visitors">
   </div>
 </div>
+
 
 <!-- Skills Section -->
 <h2 align="center">🚀 Skills & Technologies</h2>
