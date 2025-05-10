@@ -72,7 +72,7 @@
   
   <!-- Top Languages Stats -->
   <p style="margin-top: 20px;">
-    <img src="https://github-readme-stats-peach-beta.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&card_width=700&theme=dracula&count_private=true&include_all_commits=true&border_color=595959&orgs=foxocorp&include_orgs=true" alt="Top Languages">
+    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&card_width=700&theme=dracula&count_private=true&include_all_commits=true&border_color=595959&orgs=foxocorp&include_orgs=true" alt="Top Languages">
   </p>
 </div>
 
@@ -89,7 +89,7 @@
       <img src="https://github-readme-streak-stats-phi-dusky.vercel.app/?user=SnakOleg&include_orgs=true&include_all_commits=true&show_icons=true&theme=dracula&&border=595959" alt="GitHub Streak Stats">
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats-peach-beta.vercel.app/api?username=SnakOleg&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=595959" alt="GitHub Stats">
+      <img src="https://github-readme-stats-ten-navy-50.vercel.app/api?username=SnakOleg&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=595959" alt="GitHub Stats">
     </td>
   </tr>
 </table>
@@ -98,10 +98,10 @@
 <h2 align="center" style="margin-top: 25px; padding-bottom: 15px">🔥 Latest Projects</h2>
 <div align="center">
   <a href="https://github.com/foxocorp/foxogram-frontend">
-    <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=foxogram-frontend&theme=dracula&border_color=595959" alt="Foxogram Frontend">
+    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/pin/?username=foxoCorp&repo=foxogram-frontend&theme=dracula&border_color=595959" alt="Foxogram Frontend">
   </a>
   <a href="https://github.com/foxocorp/foxomoji">
-    <img src="https://github-readme-stats-peach-beta.vercel.app/api/pin/?username=foxoCorp&repo=Foxomoji&theme=dracula&border_color=595959" alt="MatrixBot Community">
+    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/pin/?username=foxoCorp&repo=Foxomoji&theme=dracula&border_color=595959" alt="MatrixBot Community">
   </a>
 </div>
 
