@@ -89,7 +89,7 @@
       <img src="https://streak-stats.demolab.com?user=SnakOleg&theme=whatsapp-dark2" alt="GitHub Streak Stats">
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats-ten-navy-50.vercel.app/api?username=SnakOleg&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=595959" alt="GitHub Stats">
+      <img src="https://github-readme-stats-ten-navy-50.vercel.app/api?username=snakoleg&show_icons=true&theme=whatsapp_dark2&count_private=true&include_all_commits=true" alt="GitHub Stats">
     </td>
   </tr>
 </table>
