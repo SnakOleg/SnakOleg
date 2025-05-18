@@ -72,7 +72,7 @@
   
   <!-- Top Languages Stats -->
   <p style="margin-top: 20px;">
-    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/wakatime/?username=SnakOleg&layout=compact&card_width=700&theme=whatsapp_dark2&count_private=true&include_all_commits=true&border_color=595959&orgs=foxocorp&include_orgs=true" alt="Top Languages">
+    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/top-langs/?username=SnakOleg&layout=compact&card_width=700&theme=whatsapp_dark2&count_private=true&include_all_commits=true&border_color=595959&orgs=foxocorp&include_orgs=true" alt="Top Languages">
   </p>
 </div>
 
