@@ -1,4 +1,4 @@
-![CleanShot 2025-05-31 at 23 38 58@2x](https://github.com/user-attachments/assets/28a0098e-e5b6-4a43-9825-fd72ed1ffda4)<!-- Animated Welcome Banner -->
+<!-- Animated Welcome Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jersey+20&size=50&duration=3000&pause=5000&color=F74936&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Welcome+to+my+profile%3CNice+to+meet+you" alt="Typing SVG" />
 </p>
