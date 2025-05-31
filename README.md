@@ -98,9 +98,9 @@
 <h2 align="center" style="margin-top: 25px; padding-bottom: 15px">🔥 Latest Projects</h2>
 <div align="center">
   <a href="https://github.com/foxocorp/foxogram-frontend">
-    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/pin/?username=foxocorp&repo=foxogram-frontend&theme=whatsapp_dark2" alt="Foxogram Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foxocorp&repo=foxogram-frontend&theme=whatsapp_dark2" alt="Foxogram Frontend">
   </a>
   <a href="https://github.com/foxocorp/foxomoji">
-    <img src="https://github-readme-stats-ten-navy-50.vercel.app/api/pin/?username=foxocorp&repo=Foxomoji&theme=whatsapp_dark2" alt="MatrixBot Community">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foxocorp&repo=Foxomoji&theme=whatsapp_dark2" alt="MatrixBot Community">
   </a>
 </div>
